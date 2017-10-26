@@ -1,0 +1,67 @@
+div.contents {
+	float: left;
+	width: 120px;
+	height: 155px;
+	border: 1.8px solid #2A2727;
+	background-color: #E7EDEE;
+	text-align: center;
+	padding: 8px;
+	margin-right: 15px;
+	margin-bottom: 15px;
+
+}
+
+div.section3 {
+	float: left;
+}
+
+div.section4 {
+	float: left;
+}
+
+#rebranding {
+	float: left;
+}
+
+#image {
+	float: right;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+#caption {
+	float: right;
+	padding-bottom: 5px;
+}
+
+div.section5 {
+	float: left;
+}
+
+div#column1 {
+	float: left;
+	text-align: left;
+
+}
+
+div#column2 {
+	float: right;
+	text-align: left;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
